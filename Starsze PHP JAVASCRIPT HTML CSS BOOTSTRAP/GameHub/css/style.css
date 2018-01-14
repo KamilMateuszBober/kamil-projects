@@ -1,0 +1,53 @@
+body {
+   background-image: url('img/background-image.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+#slider {
+	float:right;
+	background-color: grey;
+}
+#test{
+	float:right;
+	wight: 80%
+}
+
+<!-- Menu Edition -->
+
+.navbar{
+	background-color: rgba(0, 0, 0, 0.5);
+}
+
+.navbar-inverse .navbar-brand{
+	    text-shadow: 2px 2px 1px black;
+	color: white;
+}
+.navbar-inverse .navbar-nav>li>a {
+	    text-shadow: 2px 2px 1px black;
+	color: white;
+}
+
+nav.navbar.navbar-inverse.navbar-static-top {
+    background: transparent;
+}
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {
+	background: transparent;
+}
+
+.navbar-inverse .navbar-nav>.open>a, .navbar-inverse .navbar-nav>.open>a:focus, .navbar-inverse .navbar-nav>.open>a:hover {
+    background-color: rgba(0,0,0,.5);
+}
+
+.dropdown-menu {
+	background-color: rgba(0, 0, 0, 0.5);
+}
+.dropdown-menu>li>a {
+	text-shadow: 1px 1px 1px black;
+	color:white;
+}
+.adjust-font-size {
+    font-size: 1.6em;
+}
+
+
+

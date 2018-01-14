@@ -1,0 +1,121 @@
+
+/* global */
+
+body{
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+	background-image:url(../images/warthunder-background-blue.png) !important;
+	font-family: Roboto,Helvetica,Arial,sans-serif;
+	
+	font-size:1.6em;
+}
+h1{
+	text-align: center;
+	font-size: 2.2em;
+	padding: 1em 0 1em 0;
+	font-weight: bold;
+}
+.section{
+	padding-bottom: 4em;
+}
+.row{
+    margin-bottom: 2em;
+}
+
+a{
+    color: black;
+}
+
+a:link{
+    text-decoration: none;
+}
+
+a:hover{
+    color:deepskyblue;
+}
+
+
+/* Navigation */
+.navbar{
+	background-color:#27274D;
+	border-bottom: 0.2em solid #7E7ED7;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 1.2em !important;
+	
+}
+.navbar a{
+	color: #DCDCDC !important;
+}
+
+.navbar a:hover{
+	color: silver !important;
+	background-color: #7E7ED7 !important;
+	
+}
+.navbar-header .navbar-brand{
+	color:#DCDCDC !important;
+	font-size:1.8em;
+}
+
+
+/* heder */
+.header{
+	padding: 100px 0 60px;
+
+	
+}
+
+.row .gif-animation img.img-responsive{
+	padding-top: 2em;
+	padding-bottom: 2em;
+}
+
+.media-replays .container .row {
+	margin-top: 25px;
+}
+
+/*CLANS*/
+.clans .clans-description {
+		margin-bottom:1.8em;
+}
+.galery-description{
+    margin-bottom: 65px;
+}
+/* REPLAYS */
+
+span.author-replay {
+    display: block;
+    font-size: 80%;
+    line-height: 1.42857143;
+    color: #777;
+    margin-top: 0.6em;
+}
+
+/*FOOTER*/
+
+.footer {
+	background-color:#27274D;
+	color:#DCDCDC;
+	padding:30px 0 30px;
+}
+
+.footer h1 {
+	font-family: 'Lato', sans-serif;
+	font-size:1.5em;
+}
+
+.footer p a{
+    color: #DCDCDC;
+}
+
+#copyright p{
+    margin-top: 35px;
+    float: right;
+}
+
+@media(max-width:768px){
+.row{
+	padding: 0 20px 0 20px;
+}
+}

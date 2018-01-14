@@ -1,0 +1,58 @@
+<NotepadPlus>
+    <Project name="html-template">
+        <Folder name="css">
+            <File name="css\bootstrap-theme.css" />
+            <File name="css\bootstrap-theme.css.map" />
+            <File name="css\bootstrap-theme.min.css" />
+            <File name="css\bootstrap-theme.min.css.map" />
+            <File name="css\bootstrap.css" />
+            <File name="css\bootstrap.css.map" />
+            <File name="css\bootstrap.min.css" />
+            <File name="css\bootstrap.min.css.map" />
+            <File name="css\style.css" />
+        </Folder>
+        <Folder name="fonts">
+            <File name="fonts\glyphicons-halflings-regular.eot" />
+            <File name="fonts\glyphicons-halflings-regular.svg" />
+            <File name="fonts\glyphicons-halflings-regular.ttf" />
+            <File name="fonts\glyphicons-halflings-regular.woff" />
+            <File name="fonts\glyphicons-halflings-regular.woff2" />
+        </Folder>
+        <Folder name="images">
+            <Folder name="gif">
+                <File name="images\gif\0WeeSTb.gif" />
+                <File name="images\gif\4ff815c18be1.gif" />
+                <File name="images\gif\Pop_Up.mp4" />
+                <File name="images\gif\TYGJhBm.gif" />
+                <File name="images\gif\zfnX8EL.gif" />
+            </Folder>
+            <File name="images\Big_Buck_Bunny.jpg" />
+            <File name="images\Big_Buck_Bunny.mp4" />
+            <File name="images\Big_Buck_Bunny.webm" />
+            <File name="images\bodenplatte-planes.png" />
+            <File name="images\Colourful_Tulip_large.jpg" />
+            <File name="images\Colourful_Tulip_small.jpg" />
+            <File name="images\default-logo.jpg" />
+            <File name="images\License.txt" />
+            <File name="images\Red_Tulip_large.jpg" />
+            <File name="images\Red_Tulip_small.jpg" />
+            <File name="images\Sakura_Tree_large.jpg" />
+            <File name="images\Sakura_Tree_small.jpg" />
+            <File name="images\Swan_large.jpg" />
+            <File name="images\Swan_small.jpg" />
+            <File name="images\Tulip_large.jpg" />
+            <File name="images\Tulip_small.jpg" />
+            <File name="images\warthunder-background-blue.png" />
+            <File name="images\warthunder-background.png" />
+            <File name="images\warthunder.jpeg" />
+            <File name="images\warthunder.webp" />
+        </Folder>
+        <Folder name="js">
+            <File name="js\bootstrap.js" />
+            <File name="js\bootstrap.min.js" />
+            <File name="js\npm.js" />
+        </Folder>
+        <File name="game-template.html" />
+        <File name="tmp" />
+    </Project>
+</NotepadPlus>

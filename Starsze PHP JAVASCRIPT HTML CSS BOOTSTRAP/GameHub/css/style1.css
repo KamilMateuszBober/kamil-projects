@@ -1,0 +1,13 @@
+<!-- BODY EDITION -->
+
+.container .marketing {
+	padding: 3em;
+}
+#shadow-box{
+	box-shadow: 14px 14px 12px lightgrey;
+	padding-top: 5em;
+}
+span.post-link{
+	font-size: 0.6em;
+	
+}

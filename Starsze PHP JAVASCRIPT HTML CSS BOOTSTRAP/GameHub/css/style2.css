@@ -1,0 +1,15 @@
+<!-- Clan template -->
+.clan-logo.background-logo {
+    background-color: grey;
+}
+.background-logo {
+    height: 500px;
+}
+
+img.source-image {
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 500px;
+}
